@@ -1,10 +1,10 @@
-# LeetCode SQL Solutions
+# LeetCode Solutions
 
-My SQL problem-solving journey for Data Analyst interviews.
+My problem-solving journey for Data Analyst interviews.
 
 ## About This Repository
 
-This repo contains my solutions to LeetCode SQL problems. Organized by difficulty level:
+This repo contains my solutions to LeetCode problems. Organized by difficulty level:
 - `easy/` — Easy problems
 - `medium/` — Medium problems
 - `hard/` — Hard problems
@@ -19,7 +19,7 @@ Each file includes:
 
 ## Why I Built This
 
-I am preparing for Data Analyst roles in the Gulf. This repository tracks my daily SQL practice and problem-solving skills.
+I am preparing for Data Analyst roles in the Gulf. This repository tracks my daily practice and problem-solving skills.
 
 ## Skills Practiced
 
