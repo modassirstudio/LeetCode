@@ -35,8 +35,8 @@ I am preparing for Data Analyst roles in the Gulf. This repository tracks my dai
 
 **Md Modassir** — BCA Graduate | Data Analyst Aspirant
 
-- GitHub: github.com/modassirstudio
-- Portfolio: modassirstudio.github.io/Portfolio
+- GitHub: https://github.com/modassirstudio
+- Portfolio: (https://modassirstudio.github.io/Portfolio/
 - LinkedIn: https://www.linkedin.com/in/md-modassir-801a38438/
 
 ## Contact
